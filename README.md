@@ -7,13 +7,11 @@
 ### 🧠 Sobre mim
 
 - Comecei na programação aos **14 anos**
-- Iniciei no **Front-End**, mas descobri minha paixão pelo **Back-End**
-- Durante um curso da **Alura (6 meses)**, migrei de vez para o Java e APIs
-- Atualmente participo de um curso da **DIO** para reaprender e me fortalecer como Dev Java
-- Apesar de pouca experiência profissional, desenvolvi projetos pessoais como **jogos com minha própria engine**
-- Tenho um forte domínio em **arquiteturas modulares**, foco em **performance** e escrita de código limpo
-
----
+- Iniciei no **Front-End**, mas descobri minhaa habilidades com o **Back-End**
+- Durante um curso da **Alura (6 meses)**, migrei de vez para o Java, e me especializei na criação de APIs
+- Apesar de pouca experiência profissional, desenvolvi projetos pessoais grandes como **jogos com minha própria engine**, o que me permitiu me desenvolver como Dev
+- Tenho um forte domínio em **arquiteturas modulares** como **DDD** e **MVC**
+- Ao desenvolver meus projetos tenho foco em **desempenho**, **código limpo** e regras de arquitetura **SOLID**
 
 ### 🚀 Tecnologias & Ferramentas
 
@@ -37,7 +35,7 @@
 
 ---
 
-### 💬 Frase que me define:
+### 💬 Frase motivacional:
 
 > "Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." Leonardo da Vinci.
 
@@ -45,4 +43,4 @@
 
 ### 🎯 Objetivo atual
 
-> Me tornar um **desenvolvedor Java altamente qualificado**, reaprendendo com dedicação e aplicando meus conhecimentos em projetos reais e desafiadores.
+> Me tornar um **desenvolvedor Java altamente qualificado**, aprender com dedicação novas tecnologias e aplicar meus conhecimentos em projetos cada vez maiores e mais e desafiadores.
