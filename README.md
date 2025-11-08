@@ -1,6 +1,4 @@
-# 👋 Olá, eu sou o Thiago de Almeida Barbosa!
-
-💻 Desenvolvedor Java pleno | Criador de engines próprias | Apaixonado por modularidade e eficiência
+# Thiago de Almeida Barbosa
 
 ---
 
